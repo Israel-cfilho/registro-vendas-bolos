@@ -1,5 +1,5 @@
 export interface Bolo {
-  id: number
+  id: string
   sabor: string
   preco: number
 }
