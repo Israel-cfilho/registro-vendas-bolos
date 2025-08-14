@@ -35,8 +35,8 @@ Desenvolvido em **React + Next.js** com **TypeScript** e persistência local via
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/israel-cfilho/registro-vendas-bolos.git
+cd registro-vendas-bolos
 ```
 ### 2️⃣ Instalar dependências
 ```bash
